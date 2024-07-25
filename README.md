@@ -15,7 +15,8 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
-### :woman_technologist: About Me :
+### :woman_technologist: 
+About Me :
 I am a Full Stack Developer from Nigeria.
 - :telescope: I’m currently a Student at Modibbo Adama University.
 
@@ -28,8 +29,8 @@ I am a Full Stack Developer from Nigeria.
 
 
 - 👋 Hi, I’m @Godwinpogu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in coding...
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
